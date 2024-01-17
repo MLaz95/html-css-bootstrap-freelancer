@@ -1,9 +1,9 @@
-.test *{
+/* .test *{
     background-color: pink;
     border: 1px dashed gray;
     min-height: 100px;
-    /* test */
-}
+    test
+} */
 
 .my_navbar{
     flex-grow: 0;
