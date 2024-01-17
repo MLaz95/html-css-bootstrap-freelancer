@@ -1,3 +1,18 @@
+.test *{
+    background-color: pink;
+    border: 1px dashed gray;
+    min-height: 100px;
+    /* test */
+}
+
 .my_navbar{
     flex-grow: 0;
+}
+
+.my_bg_color{
+    background-color: #1ABC9C;
+}
+
+.avatar{
+    max-width: 225px;
 }
