@@ -13,8 +13,8 @@
     background-color: #1ABC9C;
 }
 
-.avatar{
-    max-width: 225px;
+.my_avatar{
+    width: 225px;
 }
 
 .fa-star{
