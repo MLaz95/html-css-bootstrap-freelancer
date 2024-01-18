@@ -1,17 +1,20 @@
-/* .test *{
-    background-color: pink;
-    border: 1px dashed gray;
-    min-height: 100px;
-    test
-} */
-
 .my_navbar{
     flex-grow: 0;
 }
 
+/* color palette */
 .my_bg_color{
     background-color: #1ABC9C;
 }
+
+.my_second_color{
+    background-color: #2C3E50;
+}
+
+.my_third_color{
+    background-color: #3A546D;
+}
+/* end color palette */
 
 .my_avatar{
     width: 225px;
@@ -36,14 +39,8 @@ textarea.my_form{
     height: 150px;
 }
 
-.my_ft_color{
-    background-color: #3A546D;
-    color: white;
-}
 
-.my_ft_secondary{
-    background-color: #2C3E50;
-}
+
 
 .my_social{
     width: 45px;
