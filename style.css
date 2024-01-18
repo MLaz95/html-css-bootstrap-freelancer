@@ -21,6 +21,21 @@
     font-size: 30px;
 }
 
+.my_form{
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0%;
+}
+
+.my_form::placeholder{
+    font-weight: 600;
+    color: #2C3E50;
+}
+
+textarea.my_form{
+    height: 150px;
+}
+
 .my_ft_color{
     background-color: #3A546D;
     color: white;
@@ -28,4 +43,13 @@
 
 .my_ft_secondary{
     background-color: #2C3E50;
+}
+
+.my_social{
+    width: 45px;
+    height: 45px;
+}
+
+.my_link{
+    color: #1ABC9C;
 }
